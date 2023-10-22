@@ -139,7 +139,7 @@ git clone https://github.com/thislzm/PSMB-Net.git
 
 #### Results on RESIDE-Outdoor Dehazing Challenge testing images
 <div style="text-align: center">
-<img alt="" src="/images/reside.png" style="display: inline-block;" />
+<img alt="" src="/images/outdoor.png" style="display: inline-block;" />
 </div>
 
 
