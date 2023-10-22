@@ -13,15 +13,15 @@
 
 <p align="center">
   <a href="https://github.com/thislzm/PSMB-Net/">
-    <img src="images/umb.png" alt="Logo" width="800" height="500">
+    <img src="images/UMB.png" alt="Logo" width="800" height="500">
   </a>
-  <h3 align="center">Partial Siamese Framework</h3>
+  <h3 align="center">Unsupervised Multibranch Dehazing Networks</h3>
   <p align="center">
   <a href="https://github.com/thislzm/PSMB-Net/">
-    <img src="images/hfce.png" alt="Logo" width="1000" height="640">
+    <img src="images/HFEM.png" alt="Logo" width="1000" height="640">
   </a>
   </p>
-  <h3 align="center">Multiscale Bi-codec Information Fusion module</h3>
+  <h3 align="center">Hihg-Frequency Components Enhanced module</h3>
 
   <p align="center">
     Partial Siamese Networks with Multiscale Bi-codec Information Fusion Module for Remote Sensing Single Image Dehazing
